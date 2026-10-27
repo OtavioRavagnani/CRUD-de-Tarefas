@@ -1,0 +1,29 @@
+{
+  "name": "crud-de-tarefas",
+  "version": "1.0.0",
+  "description": "Desafio pratico para reforçar os conceitos aprendidos na formação de Node da RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtavioRavagnani/CRUD-de-Tarefas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OtavioRavagnani/CRUD-de-Tarefas/issues"
+  },
+  "homepage": "https://github.com/OtavioRavagnani/CRUD-de-Tarefas#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/uuid": "^10.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "uuid": "^14.0.3"
+  }
+}
